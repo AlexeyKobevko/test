@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alexey <kobevko@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AlexeyKobevko/AlexeyKobevko.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
